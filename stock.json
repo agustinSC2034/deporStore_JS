@@ -6,7 +6,7 @@
 {"nombre": "Buzo Nike rojo", "precio": 5050, "img": "./img/nike/buzoRojo.png"},
 {"nombre": "Remera Puma negra", "precio": 5050, "img": "./img/puma/pumaNegraRemera.png"},
 {"nombre": "Pantalon Puma", "precio": 5050, "img": "./img/puma/Pantalon.png"},
-{"nombre": "Remera negra Puma", "precio": 5050, "img": "./img/puma/remeraNegra2.png"},
-{"nombre": "Campera Adidas", "precio": 5050, "img": "./img/adidas/campera.png"},
-{"nombre": "Zapatillas Nike Rosa", "precio": 5050, "img": "./img/zapatillas/nikeRosa.png"}
+{"nombre": "Remera negra Puma", "precio": 5050, "img": "./img/nike/mochila.png"},
+{"nombre": "Campera Adidas", "precio": 5050, "img": "./img/adidas/buzoGris.png"},
+{"nombre": "Zapatillas Nike Rosa", "precio": 5050, "img": "./img/zapatillas/adidasBotines.png"}
 ]
