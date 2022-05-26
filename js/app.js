@@ -2,7 +2,7 @@
 
 // Renderizar productos
 const renderizarProductos = async () => {
-  const resp = await fetch('./../stock.json')
+  const resp = await fetch("./stock.json")
   const stock = await resp.json()
   stock.forEach((productos) => {
     const tarjetaPrincipal = document.createElement('div')
