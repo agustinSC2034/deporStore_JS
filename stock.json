@@ -1,0 +1,12 @@
+[
+{"nombre": "Buzo celeste Adidas", "precio": 5050, "img": "img/adidas/buzoCeleste.png"},
+{"nombre": "Camiseta River titular", "precio": 5050, "img": "img/camisetasFUTBOL/river.png"},
+{"nombre": "Camiseta Manchester City", "precio": 5050, "img": "img/camisetasFUTBOL/city.png"},
+{"nombre": "Buzo Nike", "precio": 5050, "img": "img/nike/buzo.png"},
+{"nombre": "Buzo Nike rojo", "precio": 5050, "img": "img/nike/buzoRojo.png"},
+{"nombre": "Remera Puma negra", "precio": 5050, "img": "img/puma/pumaNegraRemera.png"},
+{"nombre": "Pantalon Puma", "precio": 5050, "img": "img/puma/Pantalon.png"},
+{"nombre": "Remera negra Puma", "precio": 5050, "img": "img/puma/remeraNegra2.png"},
+{"nombre": "Campera Adidas", "precio": 5050, "img": "img/adidas/campera.png"},
+{"nombre": "Zapatillas Nike Rosa", "precio": 5050, "img": "img/zapatillas/nikeRosa.png"}
+]
