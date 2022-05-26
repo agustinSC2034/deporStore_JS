@@ -1,3 +1,5 @@
+
+
 // Renderizar productos
 const renderizarProductos = async () => {
   const resp = await fetch('/stock.json')
