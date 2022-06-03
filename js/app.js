@@ -80,7 +80,7 @@ const renderizarProductosFutbol = async () => {
 }
 
 const renderizarProductosNBA = async () => {
-  const stockNBA = await fetch('./productosNBA.json')
+  const stockNBA = await fetch('../.././productosNBA.json')
   const stock3 = await stockNBA.json()
   stock3.forEach((productos) => {
     const tarjetaPrincipalNBA = document.createElement('div')
