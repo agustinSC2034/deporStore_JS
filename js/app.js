@@ -1,6 +1,6 @@
 // Renderizar productos
 const renderizarProductos = async () => {
-  const stockIndex = await fetch('/productosIndex.json')
+  const stockIndex = await fetch('./productosIndex.json')
   const stock = await stockIndex.json()
   stock.forEach((productos) => {
     const tarjetaPrincipal = document.createElement('div')
@@ -41,7 +41,7 @@ const renderizarProductos = async () => {
 }
 
 const renderizarProductosFutbol = async () => {
-  const stockFutbol = await fetch('./productosFutbol.json')
+  const stockFutbol = await fetch('/productosFutbol.json')
   const stock2 = await stockFutbol.json()
   stock2.forEach((productos) => {
     const tarjetaPrincipalFutbol = document.createElement('div')
