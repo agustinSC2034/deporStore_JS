@@ -40,7 +40,7 @@ const renderizarProductos = async () => {
 }
 
 const renderizarProductosFutbol = async () => {
-  const stockFutbol = await fetch('/productosFutbol.json')
+  const stockFutbol = await fetch('../.././productosFutbol.json')
   const stock2 = await stockFutbol.json()
   stock2.forEach((productos) => {
     const tarjetaPrincipalFutbol = document.createElement('div')
@@ -120,7 +120,7 @@ const renderizarProductosNBA = async () => {
 }
 
 const renderizarProductosZAPAS = async () => {
-  const stockZAPAS = await fetch('/productosZAPAS.json')
+  const stockZAPAS = await fetch('../.././productosZAPAS.json')
   const stock4 = await stockZAPAS.json()
   stock4.forEach((productos) => {
     const tarjetaPrincipalZAPAS = document.createElement('div')
@@ -160,7 +160,7 @@ const renderizarProductosZAPAS = async () => {
 }
 
 const renderizarProductosADIDAS = async () => {
-  const stockADIDAS = await fetch('/productosADIDAS.json')
+  const stockADIDAS = await fetch('../.././productosADIDAS.json')
   const stock5 = await stockADIDAS.json()
   stock5.forEach((productos) => {
     const tarjetaPrincipalADIDAS = document.createElement('div')
@@ -200,7 +200,7 @@ const renderizarProductosADIDAS = async () => {
 }
 
 const renderizarProductosNIKE = async () => {
-  const stockNIKE = await fetch('/productosNIKE.json')
+  const stockNIKE = await fetch('../.././productosNIKE.json')
   const stock6 = await stockNIKE.json()
   stock6.forEach((productos) => {
     const tarjetaPrincipalNIKE = document.createElement('div')
@@ -240,7 +240,7 @@ const renderizarProductosNIKE = async () => {
 }
 
 const renderizarProductosPUMA = async () => {
-  const stockPUMA = await fetch('/productosPUMA.json')
+  const stockPUMA = await fetch('../.././productosPUMA.json')
   const stock7 = await stockPUMA.json()
   stock7.forEach((productos) => {
     const tarjetaPrincipalPUMA = document.createElement('div')
