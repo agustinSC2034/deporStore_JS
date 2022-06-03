@@ -35,7 +35,6 @@ const renderizarProductos = async () => {
     // Recorro los botones y ejecuto funcion al apretar
     buttonClick.forEach((btn) => {
       btn.addEventListener("click", addToCarritoItem);
-      console.log(btn)
     });
   })
 }
@@ -76,13 +75,12 @@ const renderizarProductosFutbol = async () => {
     // Recorro los botones y ejecuto funcion al apretar
     buttonClick.forEach((btn) => {
       btn.addEventListener("click", addToCarritoItem);
-      console.log(btn)
     });
   })
 }
 
 const renderizarProductosNBA = async () => {
-  const stockNBA = await fetch('/productosNBA.json')
+  const stockNBA = await fetch('./productosNBA.json')
   const stock3 = await stockNBA.json()
   stock3.forEach((productos) => {
     const tarjetaPrincipalNBA = document.createElement('div')
@@ -117,7 +115,6 @@ const renderizarProductosNBA = async () => {
     // Recorro los botones y ejecuto funcion al apretar
     buttonClick.forEach((btn) => {
       btn.addEventListener("click", addToCarritoItem);
-      console.log(btn)
     });
   })
 }
@@ -158,7 +155,6 @@ const renderizarProductosZAPAS = async () => {
     // Recorro los botones y ejecuto funcion al apretar
     buttonClick.forEach((btn) => {
       btn.addEventListener("click", addToCarritoItem);
-      console.log(btn)
     });
   })
 }
@@ -199,7 +195,6 @@ const renderizarProductosADIDAS = async () => {
     // Recorro los botones y ejecuto funcion al apretar
     buttonClick.forEach((btn) => {
       btn.addEventListener("click", addToCarritoItem);
-      console.log(btn)
     });
   })
 }
@@ -240,7 +235,6 @@ const renderizarProductosNIKE = async () => {
     // Recorro los botones y ejecuto funcion al apretar
     buttonClick.forEach((btn) => {
       btn.addEventListener("click", addToCarritoItem);
-      console.log(btn)
     });
   })
 }
@@ -281,7 +275,6 @@ const renderizarProductosPUMA = async () => {
     // Recorro los botones y ejecuto funcion al apretar
     buttonClick.forEach((btn) => {
       btn.addEventListener("click", addToCarritoItem);
-      console.log(btn)
     });
   })
 }
