@@ -2,51 +2,51 @@
   {
     "nombre": "Buzo celeste Adidas",
     "precio": 5050,
-    "img": "/img/adidas/buzoCeleste.png"
+    "img": "./img/adidas/buzoCeleste.png"
   },
   {
     "nombre": "Camiseta River titular",
     "precio": 5050,
-    "img": "/img/camisetasFUTBOL/river.png"
+    "img": "./img/camisetasFUTBOL/river.png"
   },
   {
     "nombre": "Camiseta Manchester City",
     "precio": 5050,
-    "img": "/img/camisetasFUTBOL/city.png"
+    "img": "./img/camisetasFUTBOL/city.png"
   },
   {
     "nombre": "Camiseta Manchester City",
     "precio": 5050,
-    "img": "/img/camisetasFUTBOL/city.png"
+    "img": "./img/camisetasFUTBOL/city.png"
   },
   {
     "nombre": "Buzo Nike rojo",
     "precio": 5050,
-    "img": "/img/nike/buzoRojo.png"
+    "img": "./img/nike/buzoRojo.png"
   },
   {
     "nombre": "Remera Puma negra",
     "precio": 5050,
-    "img": "/img/puma/pumaNegraRemera.png"
+    "img": "./img/puma/pumaNegraRemera.png"
   },
   {
     "nombre": "Pantalon Puma",
     "precio": 5050,
-    "img": "/img/puma/Pantalon.png"
+    "img": "./img/puma/Pantalon.png"
   },
   {
     "nombre": "Remera negra Puma",
     "precio": 5050,
-    "img": "/img/nike/mochila.png"
+    "img": "./img/nike/mochila.png"
   },
   {
     "nombre": "Campera Adidas",
     "precio": 5050,
-    "img": "/img/adidas/buzoGris.png"
+    "img": "./img/adidas/buzoGris.png"
   },
   {
     "nombre": "Zapatillas Nike Rosa",
     "precio": 5050,
-    "img": "/img/zapatillas/adidasBotines.png"
+    "img": "./img/zapatillas/adidasBotines.png"
   }
 ]
