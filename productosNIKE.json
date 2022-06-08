@@ -1,52 +1,77 @@
 [
   {
-    "nombre": "Buzo celeste Adidas",
-    "precio": 5050,
-    "img": "/img/adidas/buzoCeleste.png"
+    "nombre": "Buzo Nike Nsw",
+    "precio": 23000,
+    "img": "../.././img/nike/Buzo_Nike_Nsw.jpg"
   },
   {
-    "nombre": "Camiseta River titular",
-    "precio": 5050,
-    "img": "/img/camisetasFUTBOL/river.png"
+    "nombre": "Campera Jordan",
+    "precio": 23000,
+    "img": "../.././img/nike/Campera_Jordan.jpg"
   },
   {
-    "nombre": "Camiseta Manchester City",
-    "precio": 5050,
-    "img": "/img/camisetasFUTBOL/city.png"
+    "nombre": "Campera Nike Fc Barcelona",
+    "precio": 23000,
+    "img": "../.././img/nike/Campera_Nike_Fc_Barcelona.jpg"
   },
   {
-    "nombre": "Camiseta Manchester City",
-    "precio": 5050,
-    "img": "/img/camisetasFUTBOL/city.png"
+    "nombre": "Campera Nike Windrunner",
+    "precio": 23000,
+    "img": "../.././img/nike/Campera_Nike_Windrunner.jpg"
   },
   {
-    "nombre": "Buzo Nike rojo",
-    "precio": 5050,
-    "img": "/img/nike/buzoRojo.png"
+    "nombre": "Campera Nike Yoga",
+    "precio": 23000,
+    "img": "../.././img/nike/Campera_Nike_Yoga.jpg"
   },
   {
-    "nombre": "Remera Puma negra",
-    "precio": 5050,
-    "img": "/img/puma/pumaNegraRemera.png"
+    "nombre": "Ojotas Nike Victori One",
+    "precio": 8000,
+    "img": "../.././img/nike/Ojotas_Nike_Victori_One.jpg"
   },
   {
-    "nombre": "Pantalon Puma",
-    "precio": 5050,
-    "img": "/img/puma/Pantalon.png"
+    "nombre": "Ojotas Nike Victori",
+    "precio": 23000,
+    "img": "../.././img/nike/Ojotas_Nike_Victori.jpg"
   },
   {
-    "nombre": "Remera negra Puma",
-    "precio": 5050,
-    "img": "/img/nike/mochila.png"
+    "nombre": "Pack de Medias Nike",
+    "precio": 23000,
+    "img": "../.././img/nike/Pack_de_Medias__Nike.jpg"
   },
   {
-    "nombre": "Campera Adidas",
-    "precio": 5050,
-    "img": "/img/adidas/buzoGris.png"
+    "nombre": "Pantalón Nike Liverpool",
+    "precio": 23000,
+    "img": "../.././img/nike/Pantalón_Nike_Liverpool.jpg"
   },
   {
-    "nombre": "Zapatillas Nike Rosa",
-    "precio": 5050,
-    "img": "/img/zapatillas/adidasBotines.png"
+    "nombre": "Remera Nike Dri-FIT",
+    "precio": 23000,
+    "img": "../.././img/nike/Remera_Nike__Dri-FIT.jpg"
+  },
+  {
+    "nombre": "Remera Nike Drifit",
+    "precio": 23000,
+    "img": "../.././img/nike/Remera_Nike_Drifit.jpg"
+  },
+  {
+    "nombre": "Remera Nike Kenya",
+    "precio": 23000,
+    "img": "../.././img/nike/Remera_Nike_Kenya.jpg"
+  },
+  {
+    "nombre": "Remera Nike Sportswear",
+    "precio": 23000,
+    "img": "../.././img/nike/Remera_Nike_Sportswear.jpg"
+  },
+  {
+    "nombre": "Short Nike Dri-FIT",
+    "precio": 23000,
+    "img": "../.././img/nike/Short_Nike_Dri-FIT.jpg"
+  },
+  {
+    "nombre": "Short Nike Liverpool FC",
+    "precio": 23000,
+    "img": "../.././img/nike/Short_Nike_Liverpool_FC.jpg"
   }
 ]

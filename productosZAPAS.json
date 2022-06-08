@@ -1,52 +1,62 @@
 [
   {
-    "nombre": "Buzo celeste Adidas",
-    "precio": 5050,
-    "img": "../.././img/adidas/buzoCeleste.png"
+    "nombre": "Zapatillas Adidas Grand Court SE",
+    "precio": 25000,
+    "img": "../.././img/zapatillas/ZapatillasadidasGrandCourtSE.jpg"
   },
   {
-    "nombre": "Camiseta River titular",
-    "precio": 5050,
-    "img": "../.././img/camisetasFUTBOL/river.png"
+    "nombre": "Zapatillas adidas Response Super 2.0",
+    "precio": 32000,
+    "img": "../.././img/zapatillas/ZapatillasadidasResponseSuper2.0.jpg"
   },
   {
-    "nombre": "Camiseta Manchester City",
-    "precio": 5050,
-    "img": "../.././img/camisetasFUTBOL/city.png"
+    "nombre": "Zapatillas Asics Noosa Tri 13",
+    "precio": 19000,
+    "img": "../.././img/zapatillas/ZapatillasAsicsNoosaTri13.jpg"
   },
   {
-    "nombre": "Camiseta Manchester City",
-    "precio": 5050,
-    "img": "../.././img/camisetasFUTBOL/city.png"
+    "nombre": "Zapatillas Fila Axilus Ace Clay",
+    "precio": 25000,
+    "img": "../.././img/zapatillas/ZapatillasFilaAxilusAceClay.jpg"
   },
   {
-    "nombre": "Buzo Nike rojo",
-    "precio": 5050,
-    "img": "../.././img/nike/buzoRojo.png"
+    "nombre": "Zapatillas Nike Air Max 200",
+    "precio": 34000,
+    "img": "../.././img/zapatillas/ZapatillasNikeAirMax200.jpg"
   },
   {
-    "nombre": "Remera Puma negra",
-    "precio": 5050,
-    "img": "../.././img/puma/pumaNegraRemera.png"
+    "nombre": "Zapatillas Nike React Infinity Run Flyknit 2",
+    "precio": 20000,
+    "img": "../.././img/zapatillas/ZapatillasNikeReactInfinityRunFlyknit2.jpg"
   },
   {
-    "nombre": "Pantalon Puma",
-    "precio": 5050,
-    "img": "../.././img/puma/Pantalon.png"
+    "nombre": "Zapatillas Nike React Miler 2",
+    "precio": 23000,
+    "img": "../.././img/zapatillas/ZapatillasNikeReactMiler2.jpg"
   },
   {
-    "nombre": "Remera negra Puma",
-    "precio": 5050,
-    "img": "../.././img/nike/mochila.png"
+    "nombre": "Zapatillas Nike Zoom Vapor Pro",
+    "precio": 34000,
+    "img": "../.././img/zapatillas/ZapatillasNikeZoomVaporPro.jpg"
   },
   {
-    "nombre": "Campera Adidas",
-    "precio": 5050,
-    "img": "../.././img/adidas/buzoGris.png"
+    "nombre": "Zapatillas Puma Ferrari Ion Speed",
+    "precio": 16000,
+    "img": "../.././img/zapatillas/ZapatillasPumaFerrariIonSpeed.jpg"
   },
   {
-    "nombre": "Zapatillas Nike Rosa",
-    "precio": 5050,
-    "img": "../.././img/zapatillas/adidasBotines.png"
+    "nombre": "Zapatillas Under Armour Project Rock 4",
+    "precio": 23000,
+    "img": "../.././img/zapatillas/ZapatillasUnderArmourProjectRock4.jpg"
+  },
+  {
+    "nombre": "Zapatillas adidas Grand Court Se2",
+    "precio": 15000,
+    "img": "../.././img/zapatillas/ZapatillasadidasGrandCourtSe2.jpg"
+  },
+  {
+    "nombre": "Zapatillas Nike AirMax Intrlk 75",
+    "precio": 24000,
+    "img": "../.././img/zapatillas/ZapatillasNikeAirMaxIntrlk75.jpg"
   }
 ]

@@ -396,7 +396,7 @@ footer .footerText {
   width: 68%;
   margin: 30px 20px;
   text-align: center;
-  font-size: 1.0em;
+  font-size: 1em;
   border-top: none;
   border-right: none;
   border-left: none;
@@ -450,7 +450,7 @@ footer .footerText {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background: url(../img/bannerBasquet.jpg);
+  background: url(../img/otras/bannerBasquet.jpg);
 }
 
 .fondoFutbol {
@@ -469,7 +469,7 @@ footer .footerText {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background: url(../img/bannerFutbol4.jpg);
+  background: url(../img/otras/bannerFutbol4.jpg);
 }
 
 .fondoZapatillas {
@@ -488,7 +488,7 @@ footer .footerText {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background: url(../img/bannerCalzado2.jpg);
+  background: url(../img/otras/bannerCalzado2.jpg);
 }
 
 .fondoNike {
@@ -507,7 +507,7 @@ footer .footerText {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background: url(../img/bannerNike.jpg);
+  background: url(../img/otras/bannerNike.jpg);
 }
 
 .fondoPuma {
@@ -526,7 +526,7 @@ footer .footerText {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background: url(../img/bannerPuma2.jpg);
+  background: url(../img/otras/bannerPuma2.jpg);
 }
 
 .fondoAdidas {
@@ -545,7 +545,7 @@ footer .footerText {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background: url(../img/bannerAdidas3.jpg);
+  background: url(../img/otras/bannerAdidas3.jpg);
 }
 
 /*CATEGORIAS Y MARCAS: Menu de productos*/
@@ -740,7 +740,7 @@ footer .footerText {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: url(../img/ds.png);
+  background: url(../img/otras/ds.png);
   background-blend-mode: soft-light;
   background-position: center;
   background-size: cover;

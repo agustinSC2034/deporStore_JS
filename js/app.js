@@ -9,12 +9,12 @@ const renderizarProductos = async () => {
     <div class="card h-100 tarjetaMIA item">
     <div class="badge bg-primary text-white position-absolute"
                                 style="top: 0.5rem; right: 0.5rem">
-                                90% OFF</div>
+                                25% OFF</div>
                             <img class="card-img-top item-img" src=${productos.img} alt="Camiseta de futbol" />
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <h5 class="fw-bolder item-titulo">${productos.nombre}</h5>
-                                    <span class="text-muted text-decoration-line-through">5500</span>
+                                    <span class="text-muted text-decoration-line-through">${productos.precio * 125 / 100}</span>
                                     <h5 class="fw-bolderPrecio item-precio">${productos.precio}</h5>
                                     <h7 class="fw-bolderPrecio">Pesos</h7>
                                 </div>
@@ -47,14 +47,11 @@ const renderizarProductosFutbol = async () => {
     tarjetaPrincipalFutbol.innerHTML = `
     <div class="col mb-5 tarjetaIndividual">
     <div class="card h-100 tarjetaMIA item">
-    <div class="badge bg-primary text-white position-absolute"
-                                style="top: 0.5rem; right: 0.5rem">
-                                90% OFF</div>
                             <img class="card-img-top item-img" src=${productos.img} alt="Camiseta de futbol" />
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <h5 class="fw-bolder item-titulo">${productos.nombre}</h5>
-                                    <span class="text-muted text-decoration-line-through">5500</span>
+                            
                                     <h5 class="fw-bolderPrecio item-precio">${productos.precio}</h5>
                                     <h7 class="fw-bolderPrecio">Pesos</h7>
                                 </div>
@@ -87,14 +84,11 @@ const renderizarProductosNBA = async () => {
     tarjetaPrincipalNBA.innerHTML = `
     <div class="col mb-5 tarjetaIndividual">
     <div class="card h-100 tarjetaMIA item">
-    <div class="badge bg-primary text-white position-absolute"
-                                style="top: 0.5rem; right: 0.5rem">
-                                90% OFF</div>
                             <img class="card-img-top item-img" src=${productos.img} alt="Camiseta de futbol" />
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <h5 class="fw-bolder item-titulo">${productos.nombre}</h5>
-                                    <span class="text-muted text-decoration-line-through">5500</span>
+                              
                                     <h5 class="fw-bolderPrecio item-precio">${productos.precio}</h5>
                                     <h7 class="fw-bolderPrecio">Pesos</h7>
                                 </div>
@@ -129,12 +123,12 @@ const renderizarProductosZAPAS = async () => {
     <div class="card h-100 tarjetaMIA item">
     <div class="badge bg-primary text-white position-absolute"
                                 style="top: 0.5rem; right: 0.5rem">
-                                90% OFF</div>
+                                10% OFF</div>
                             <img class="card-img-top item-img" src=${productos.img} alt="Camiseta de futbol" />
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <h5 class="fw-bolder item-titulo">${productos.nombre}</h5>
-                                    <span class="text-muted text-decoration-line-through">5500</span>
+                                    <span class="text-muted text-decoration-line-through">${productos.precio * 110 / 100}</span>
                                     <h5 class="fw-bolderPrecio item-precio">${productos.precio}</h5>
                                     <h7 class="fw-bolderPrecio">Pesos</h7>
                                 </div>
@@ -167,14 +161,10 @@ const renderizarProductosADIDAS = async () => {
     tarjetaPrincipalADIDAS.innerHTML = `
     <div class="col mb-5 tarjetaIndividual">
     <div class="card h-100 tarjetaMIA item">
-    <div class="badge bg-primary text-white position-absolute"
-                                style="top: 0.5rem; right: 0.5rem">
-                                90% OFF</div>
                             <img class="card-img-top item-img" src=${productos.img} alt="Camiseta de futbol" />
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <h5 class="fw-bolder item-titulo">${productos.nombre}</h5>
-                                    <span class="text-muted text-decoration-line-through">5500</span>
                                     <h5 class="fw-bolderPrecio item-precio">${productos.precio}</h5>
                                     <h7 class="fw-bolderPrecio">Pesos</h7>
                                 </div>
@@ -209,12 +199,12 @@ const renderizarProductosNIKE = async () => {
     <div class="card h-100 tarjetaMIA item">
     <div class="badge bg-primary text-white position-absolute"
                                 style="top: 0.5rem; right: 0.5rem">
-                                90% OFF</div>
+                                10% OFF</div>
                             <img class="card-img-top item-img" src=${productos.img} alt="Camiseta de futbol" />
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <h5 class="fw-bolder item-titulo">${productos.nombre}</h5>
-                                    <span class="text-muted text-decoration-line-through">5500</span>
+                                    <span class="text-muted text-decoration-line-through">${productos.precio * 110 / 100}</span>
                                     <h5 class="fw-bolderPrecio item-precio">${productos.precio}</h5>
                                     <h7 class="fw-bolderPrecio">Pesos</h7>
                                 </div>
@@ -249,12 +239,12 @@ const renderizarProductosPUMA = async () => {
     <div class="card h-100 tarjetaMIA item">
     <div class="badge bg-primary text-white position-absolute"
                                 style="top: 0.5rem; right: 0.5rem">
-                                90% OFF</div>
+                                20% OFF</div>
                             <img class="card-img-top item-img" src=${productos.img} alt="Camiseta de futbol" />
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <h5 class="fw-bolder item-titulo">${productos.nombre}</h5>
-                                    <span class="text-muted text-decoration-line-through">5500</span>
+                                    <span class="text-muted text-decoration-line-through">${productos.precio * 120 / 100}</span>
                                     <h5 class="fw-bolderPrecio item-precio">${productos.precio}</h5>
                                     <h7 class="fw-bolderPrecio">Pesos</h7>
                                 </div>
@@ -291,11 +281,13 @@ const tarjetaTotalNIKE = document.querySelector(".listaCardsNIKE")
 const tarjetaTotalPUMA = document.querySelector(".listaCardsPUMA")
 // Creo var para almacenar html a renderizar
 const carritoHtml = document.querySelector(".shoppingCartItemsContainer");
+// Boton comprar carrito
 // Boton vaciar carrito
 const vaciarButton = document.querySelector(".vaciarButtonCarro");
 vaciarButton.addEventListener("click", removeCarrito);
 // Boton comprar prueba de SPREAD ARRAY:
 const comprarButton = document.querySelector(".comprarButton");
+comprarButton.addEventListener("click", comprarCarrito);
 
 
 // FUNCIONES
@@ -468,6 +460,13 @@ function comprarCarrito() {
   console.log("Gracias por comprar los siguientes articulos")
   console.log(carrito)
   console.log(...carrito)
+  swal({
+    title: "Gracias por su compra",
+    text: "Lo esperamos nuevamente en DeporStore",
+  })
+  carrito = [];
+  carritoHtml.innerHTML = "";
+  CarritoTotal();
 }
 
 

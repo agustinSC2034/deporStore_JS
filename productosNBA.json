@@ -1,52 +1,62 @@
 [
   {
-    "nombre": "Buzo celeste Adidas",
-    "precio": 5050,
-    "img": "../.././img/adidas/buzoCeleste.png"
+    "nombre": "Camiseta Broklin Nets",
+    "precio": 9000,
+    "img": "../.././img/camisetasNBA/broklin.png"
   },
   {
-    "nombre": "Camiseta River titular",
-    "precio": 5050,
-    "img": "../.././img/camisetasFUTBOL/river.png"
+    "nombre": "Camiseta Broklin Nets suplente",
+    "precio": 9000,
+    "img": "../.././img/camisetasNBA/brookllin.png"
   },
   {
-    "nombre": "Camiseta Manchester City",
-    "precio": 5050,
-    "img": "../.././img/camisetasFUTBOL/city.png"
+    "nombre": "Camiseta Chicago Bulls",
+    "precio": 9000,
+    "img": "../.././img/camisetasNBA/BULLS.png"
   },
   {
-    "nombre": "Camiseta Manchester City",
-    "precio": 5050,
-    "img": "../.././img/camisetasFUTBOL/city.png"
+    "nombre": "Camiseta Boston Celtics",
+    "precio": 9000,
+    "img": "../.././img/camisetasNBA/celticsBlanca.png"
   },
   {
-    "nombre": "Buzo Nike rojo",
-    "precio": 5050,
-    "img": "../.././img/nike/buzoRojo.png"
+    "nombre": "Camiseta Boston celtics",
+    "precio": 9000,
+    "img": "../.././img/camisetasNBA/celticsVerde.png"
   },
   {
-    "nombre": "Remera Puma negra",
-    "precio": 5050,
-    "img": "../.././img/puma/pumaNegraRemera.png"
+    "nombre": "Camiseta Los Angeles Clippers",
+    "precio": 9000,
+    "img": "../.././img/camisetasNBA/clipers.png"
   },
   {
-    "nombre": "Pantalon Puma",
-    "precio": 5050,
-    "img": "../.././img/puma/Pantalon.png"
+    "nombre": "Camiseta Los Angeles Clippers suplente",
+    "precio": 9000,
+    "img": "../.././img/camisetasNBA/clipers2.png"
   },
   {
-    "nombre": "Remera negra Puma",
-    "precio": 5050,
-    "img": "../.././img/nike/mochila.png"
+    "nombre": "Camiseta Denver Nuggets",
+    "precio": 9000,
+    "img": "../.././img/camisetasNBA/denver.png"
   },
   {
-    "nombre": "Campera Adidas",
-    "precio": 5050,
-    "img": "../.././img/adidas/buzoGris.png"
+    "nombre": "Camiseta Golden State Warriors",
+    "precio": 9000,
+    "img": "../.././img/camisetasNBA/golden.png"
   },
   {
-    "nombre": "Zapatillas Nike Rosa",
-    "precio": 5050,
-    "img": "../.././img/zapatillas/adidasBotines.png"
+    "nombre": "Camiseta Golden State Warriors suplente",
+    "precio": 9000,
+    "img": "../.././img/camisetasNBA/goldenAzul.png"
+  },
+  {
+    "nombre": "Camiseta Los Angeles Lakers",
+    "precio": 9000,
+    "img": "../.././img/camisetasNBA/lakers.png"
+  },
+  {
+    "nombre": "Camiseta Phoenix Suns",
+    "precio": 9000,
+    "img": "../.././img/camisetasNBA/phoenix.png"
   }
 ]

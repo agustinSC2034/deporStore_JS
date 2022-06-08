@@ -1,52 +1,57 @@
 [
   {
-    "nombre": "Buzo celeste Adidas",
-    "precio": 5050,
-    "img": "/img/adidas/buzoCeleste.png"
+    "nombre": "Buzo adidas Essential",
+    "precio": 12000,
+    "img": "../.././img/adidas/Buzo_adidas_Essential.jpg"
   },
   {
-    "nombre": "Camiseta River titular",
-    "precio": 5050,
-    "img": "/img/camisetasFUTBOL/river.png"
+    "nombre": "Buzo adidas Essentials",
+    "precio": 18000,
+    "img": "../.././img/adidas/Buzo_adidas_Essentials.jpg"
   },
   {
-    "nombre": "Camiseta Manchester City",
-    "precio": 5050,
-    "img": "/img/camisetasFUTBOL/city.png"
+    "nombre": "Campera adidas Bold",
+    "precio": 16000,
+    "img": "../.././img/adidas/Campera_adidas_Bold.jpg"
   },
   {
-    "nombre": "Camiseta Manchester City",
-    "precio": 5050,
-    "img": "/img/camisetasFUTBOL/city.png"
+    "nombre": "Campera adidas Marathon",
+    "precio": 15000,
+    "img": "../.././img/adidas/Campera_adidas_Marathon.jpg"
   },
   {
-    "nombre": "Buzo Nike rojo",
-    "precio": 5050,
-    "img": "/img/nike/buzoRojo.png"
+    "nombre": "Campera adidas Own",
+    "precio": 17000,
+    "img": "../.././img/adidas/Campera_adidas_Own.jpg"
   },
   {
-    "nombre": "Remera Puma negra",
-    "precio": 5050,
-    "img": "/img/puma/pumaNegraRemera.png"
+    "nombre": "Campera adidas Sportswear",
+    "precio": 16000,
+    "img": "../.././img/adidas/Campera_adidas_Sportswear.jpg"
   },
   {
-    "nombre": "Pantalon Puma",
-    "precio": 5050,
-    "img": "/img/puma/Pantalon.png"
+    "nombre": "Chomba adidas Pique Polo",
+    "precio": 14000,
+    "img": "../.././img/adidas/Chomba_adidas_Pique_Polo.jpg"
   },
   {
-    "nombre": "Remera negra Puma",
-    "precio": 5050,
-    "img": "/img/nike/mochila.png"
+    "nombre": "Chomba adidas Polo",
+    "precio": 15000,
+    "img": "../.././img/adidas/Chomba_adidas_Polo.jpg"
   },
   {
-    "nombre": "Campera Adidas",
-    "precio": 5050,
-    "img": "/img/adidas/buzoGris.png"
+    "nombre": "Conjunto adidas Teamsport",
+    "precio": 11000,
+    "img": "../.././img/adidas/Conjunto_adidas_Teamsport.jpg"
   },
   {
-    "nombre": "Zapatillas Nike Rosa",
-    "precio": 5050,
-    "img": "/img/zapatillas/adidasBotines.png"
+    "nombre": "Pantalón adidas Zne",
+    "precio": 12000,
+    "img": "../.././img/adidas/Pantalón_adidas_Zne.jpg"
+  },
+  {
+    "nombre": "Pelota adidas Al Rihla",
+    "precio": 13000,
+    "img": "../.././img/adidas/Pelota_adidas_Al_Rihla.jpg"
   }
 ]
